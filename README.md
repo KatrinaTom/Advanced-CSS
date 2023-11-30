@@ -6,7 +6,7 @@
 
 ## Components
 
-* Header
+**Header**
 - default CSS styling 
 - box-sizing: border-box
 - add font styling to the body 
