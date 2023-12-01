@@ -19,5 +19,23 @@
 - animation timing function
 - animated button with shadow effect
 
-<img src="./images/header.png" alt="Header" width="500px">
+<img src="./screenshots/header.png" alt="Header" width="500px">
+
+____
+
+**SASS Script**
+
+* Folder: sass / main.scss
+* package.json file, added a script to run compile sass
+
+<img src="./screenshots/script-sass.png" alt="Sass Script" width="500">
+
+* To run
+
+``npm run compile:sass``
+
+* This compiles into Folder: css / style.css 
+
+
+
 
