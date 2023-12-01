@@ -36,6 +36,7 @@ ____
 
 * This compiles into Folder: css / style.css 
 
-
+**Note**
+Add the -w to the end of the script to watch the file 
 
 
