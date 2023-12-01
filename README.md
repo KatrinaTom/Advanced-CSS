@@ -23,7 +23,7 @@
 
 ____
 
-**SASS Script**
+## SASS Script
 
 * Folder: sass / main.scss
 * package.json file, added a script to run compile sass
@@ -37,6 +37,21 @@ ____
 * This compiles into Folder: css / style.css 
 
 **Note**
-Add the -w to the end of the script to watch the file 
+1. Add the -w to the end of the script to watch the file 
+2. ``npm install live-server`` : reloads the site automatically (install globally on computer) 
+
+___
+
+## Practice 
+
+1. 7-1 CSS Architecture
+
+<img src="./screenshots/7-1.png" alt="7-1 CSS" width="200">
+
+2. BEM - Block Element Modifier (Naming classes)
+
+**BLOCK:** standalone component that is meaningful on its own
+**ELEMENT:** part of a block that has no standalone meaning
+**MODIFIER:** a different version of a block or an element
 
 
