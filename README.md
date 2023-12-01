@@ -51,7 +51,11 @@ ___
 2. BEM - Block Element Modifier (Naming classes)
 
 **BLOCK:** standalone component that is meaningful on its own
+
 **ELEMENT:** part of a block that has no standalone meaning
+
 **MODIFIER:** a different version of a block or an element
+
+
 
 
