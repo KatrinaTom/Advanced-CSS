@@ -46,7 +46,14 @@ ___
 
 **Feature Section** 
 
+- skewed background image 
+<img src="./screenshots/section-features.png" alt="Section Features Skewed" width="200">
 
+- gradient colour for the icons 
+- hover on grads
+- use of grid system to display the cards 
+
+<img src="./screenshots/features.png" alt="Feature Section" width="500">
 
 
 ____
