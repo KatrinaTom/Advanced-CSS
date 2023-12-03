@@ -21,6 +21,28 @@
 
 <img src="./screenshots/header.png" alt="Header" width="500px">
 
+**About Section**
+- use ``<main>`` and then add ``<section>``
+- webkit background-clip for the ``<h2>`` text with a gradient and shadow. 
+- transform to skew text on hove
+
+Files located under /_typography.scss
+
+**note:**
+Need to add color: transparent, otherwise it won’t work. 
+
+- Adding utlity classes to the utility folder, such as consistant margin bottom
+- using &not:(last-child) to remove a style
+
+<img src="./screenshots//not.png" alt="not CSS style" width="200">
+
+- Learn More button with text-decoration on hover with a shadow
+
+<img src="./screenshots//about.png" alt="About Section" with="500">
+
+
+
+
 ____
 
 ## SASS Script
