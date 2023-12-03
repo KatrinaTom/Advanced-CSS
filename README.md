@@ -21,6 +21,8 @@
 
 <img src="./screenshots/header.png" alt="Header" width="500px">
 
+___
+
 **About Section**
 - use ``<main>`` and then add ``<section>``
 - webkit background-clip for the ``<h2>`` text with a gradient and shadow. 
@@ -39,6 +41,10 @@ Need to add color: transparent, otherwise it won’t work.
 - Learn More button with text-decoration on hover with a shadow
 
 <img src="./screenshots//about.png" alt="About Section" with="500">
+
+___
+
+**Feature Section** 
 
 
 
