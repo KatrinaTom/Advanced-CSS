@@ -65,6 +65,12 @@ ____
 <img src="./screenshots/tours.png" alt="Tours Section" width="500">
 ____
 
+**Stories Section**
+
+
+
+____
+
 ## SASS Script
 
 * Folder: sass / main.scss
