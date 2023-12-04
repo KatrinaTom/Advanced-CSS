@@ -59,7 +59,10 @@ ____
 
 **Tours Section**
 
-- Rotating Card
+- Rotating Card (front/ back)
+- reusable components (heading and buttons)
+
+<img src="./screenshots/tours.png" alt="Tours Section" width="500">
 ____
 
 ## SASS Script
