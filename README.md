@@ -21,7 +21,7 @@
 
 <img src="./screenshots/header.png" alt="Header" width="500px">
 
-___
+____
 
 **About Section**
 - use ``<main>`` and then add ``<section>``
@@ -40,9 +40,9 @@ Need to add color: transparent, otherwise it won’t work.
 
 - Learn More button with text-decoration on hover with a shadow
 
-<img src="./screenshots//about.png" alt="About Section" with="500">
+<img src="./screenshots/about.png" alt="About Section" with="500">
 
-___
+____
 
 **Feature Section** 
 
@@ -55,7 +55,11 @@ ___
 
 <img src="./screenshots/features.png" alt="Feature Section" width="500">
 
+____
 
+**Tours Section**
+
+- Rotating Card
 ____
 
 ## SASS Script
