@@ -36,11 +36,11 @@ Need to add color: transparent, otherwise it won’t work.
 - Adding utlity classes to the utility folder, such as consistant margin bottom
 - using &not:(last-child) to remove a style
 
-<img src="./screenshots//not.png" alt="not CSS style" width="200">
+<img src="./screenshots/not.png" alt="not CSS style" width="200">
 
 - Learn More button with text-decoration on hover with a shadow
 
-<img src="./screenshots/about.png" alt="About Section" with="500">
+<img src="./screenshots/about.png" alt="About Section" width="500">
 
 ____
 
@@ -73,6 +73,12 @@ ____
 - reusable components - buuttons
 
 <img src="./screenshots/stories.png" alt="Stories Section" width="500">
+
+____
+
+**Booking Section**
+
+
 ____
 
 ## SASS Script
