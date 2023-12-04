@@ -78,6 +78,12 @@ ____
 
 **Booking Section**
 
+- gradient colour for the background image
+- custom field placeholder and input 
+- booking form 
+- custom input field selectors
+
+<img src="./screenshots/booking.png" alt="Booking Section" width="500">
 
 ____
 
