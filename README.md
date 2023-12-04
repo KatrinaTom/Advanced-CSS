@@ -67,8 +67,12 @@ ____
 
 **Stories Section**
 
+- video as a background
+- figcaption for images 
+- hover and blur images to display name
+- reusable components - buuttons
 
-
+<img src="./screenshots/stories.png" alt="Stories Section" width="500">
 ____
 
 ## SASS Script
