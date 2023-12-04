@@ -87,6 +87,17 @@ ____
 
 ____
 
+**Footer**
+
+- footer section with links
+- link styling
+
+<img src="./screenshots/footer-styling.png" alt="Footer Link Styling" width="200">
+
+<img src="./screenshots/footer.png" alt="Footer Section" width="500">
+
+____
+
 ## SASS Script
 
 * Folder: sass / main.scss
