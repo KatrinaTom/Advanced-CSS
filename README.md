@@ -119,6 +119,7 @@ ____
 - Pop up created with CSS
 - Fixed position, scrollable background
 - Images display using table 
+- Functionality: open/ close 
 
 <img src="./screenshots/popup.png" alt="Pop Up Modal" width="500">
 ____
