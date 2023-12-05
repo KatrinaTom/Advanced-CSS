@@ -111,6 +111,16 @@ Navigation Hamburger
 * However over links a CSS effect
 
 <img src="./screenshots/navigation.png" alt="Navigation" width="500">
+
+____
+
+**Pop Up**
+
+- Pop up created with CSS
+- Fixed position, scrollable background
+- Images display using table 
+
+<img src="./screenshots/popup.png" alt="Pop Up Modal" width="500">
 ____
 
 ## SASS Script
