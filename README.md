@@ -98,6 +98,21 @@ ____
 
 ____
 
+**Navigation**
+
+There is a lot going on in this navigation. 
+
+Navigation Hamburger
+
+* Stays in the same place
+* Hover on hamburger a css effect
+* Click on hamburger turns it into an x
+* Expands into navigation, coming in from the left side 
+* However over links a CSS effect
+
+<img src="./screenshots/navigation.png" alt="Navigation" width="500">
+____
+
 ## SASS Script
 
 * Folder: sass / main.scss
