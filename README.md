@@ -122,6 +122,26 @@ ____
 - Functionality: open/ close 
 
 <img src="./screenshots/popup.png" alt="Pop Up Modal" width="500">
+
+____
+
+## Media Queries
+
+Located in mixins ``NatoursProject/sass/abstracts/_mixins.scss``
+
+```
+0 - 600px:      Phone
+600 - 900px:    Tablet portrait
+900 - 1200px:   Tablet landscape
+[1200 - 1800] is where our normal styles apply
+1800px + :      Big desktop
+
+$breakpoint arguement choices:
+- phone
+- tab-port
+- tab-land
+- big-desktop
+```
 ____
 
 ## SASS Script

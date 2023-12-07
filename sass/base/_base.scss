@@ -11,6 +11,10 @@ html {
     /* using 10px to update rem easier conversion 10 px = 1 rem */
     /* 10 divide by 16 to get 62.5% */ 
     font-size: 62.5%;
+
+    // @media (max-width: 600px) {
+    //     font-size: 50%;
+    // }
 }
 
 body {
