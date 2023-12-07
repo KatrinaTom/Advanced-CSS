@@ -127,6 +127,8 @@ ____
 
 ## Media Queries
 
+Note: this website was originally build desktop first, with max-width media queries.
+
 Located in mixins ``NatoursProject/sass/abstracts/_mixins.scss``
 
 ```

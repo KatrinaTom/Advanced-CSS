@@ -32,9 +32,9 @@ ORDER: Base + typography > general layout + grid > page layout > components
 1em = 16px
 */
 
-@mixin respond-phone {
-    @media (max-width: 600px) { @content };
-}
+// @mixin respond-phone {
+//     @media (max-width: 600px) { @content };
+// }
 
 @mixin respond($breakpoint) {
     @if $breakpoint == phone {
@@ -50,5 +50,3 @@ ORDER: Base + typography > general layout + grid > page layout > components
         @media only screen and (min-width: 112.5em) { @content };    //1800
     }
 }
-
-
