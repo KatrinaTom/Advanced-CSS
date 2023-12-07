@@ -142,6 +142,13 @@ $breakpoint arguement choices:
 - tab-land
 - big-desktop
 ```
+
+em not rem's.
+
+em are best for media query
+1em = 16px
+
+<img src="./screenshots/media-queries.png" alt="Media Queries" width="200">
 ____
 
 ## SASS Script
